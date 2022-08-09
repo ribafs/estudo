@@ -1,0 +1,28 @@
+Matemática na Programação
+
+É importante que o programador tenha um conhecimento básico de todas as áreas de conhecimento, aquelas fornecidas pelo ensino médio. Isso porque o programador pode ser convidado por um engenheiro, um médico, um advogado, etc, para criar um aplicativo para ele e se temos um conhecimento básico sobre a área do programa a ser criado já irá ajudar.
+
+Um conhecimento da matemática que é muito utilizado na programação é o do plano cartesiano. Lembrando: o plano é formado por duas retas que se cruzam no centro, sendo uma na vertical e outra na horizontal. O encontro das retas é o centro, o ponto 0 (zero). A reta na horizontal é chamada de eixo-x, a da vertical de eixo-y. Do zero para a direita é a parte positiva do eixo-x e para a esquerda é a parte negativa. Do zero para cima no eixo-y é a parte positiva, para baixo é a negativa.
+
+Exemplos de uso:
+
+No CSS
+Temos um campo senha em um form e para a direita temos um ícone de um olho para clicar e mostrar os caracteres de senha. Acontece que o olho fica fora do campo password e queremos que volte um pouco para a esquerda, ficando dentro do campo password. Sabe como fazemos isso com CSS?
+
+form i {
+	margin-left: -30px;
+}
+
+No caso, movemos o olho 30px para a esquerda. O extremo do campo password é o ponto zero do ícone.
+
+PHP
+Diversas fórmulas usam também o plano cartesiano. Um exemplo é a função substr. Veja alguns exemplos:
+
+$rest = substr("abcdef", -1);    // returns "f"
+$rest = substr("abcdef", -2);    // returns "ef"
+
+Considerando a string abcdef, então -1 retorna o f, -2 retorna ef. 
+
+Por que Eu Não Consigo Estudar? - Um Tapa Na Cara Sobre Motivação nos Estudos
+https://www.youtube.com/watch?v=H8XxC4m7auo
+

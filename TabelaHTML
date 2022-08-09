@@ -1,0 +1,31 @@
+Daniel Kelly atualizou a foto do perfil.
+2 h  ·
+Aula#22    Tabelas em HTML
+A Tabela em HTML representa os dados em uma forma tabular.  É composto por colunas e linhas de células que contêm dados.
+O elemento <table> define uma tabela HTML.
+Elementos de tabela HTML
+<thead> : define um cabeçalho de tabela.
+<tbody> : define um corpo de tabela.
+<tfoot> : define um rodapé de tabela.
+<tr> : define uma linha de tabela atributo.
+• colspan: define quantas colunas uma célula deve abranger.
+<th> :  define um cabeçalho de tabela.
+<td> : define os dados/célula da tabela.
+• Atributo rowspan: define quantas linhas uma célula deve abranger;  também funciona em <th>
+<colgroup> : especifica um grupo de uma ou mais colunas em uma tabela.
+<col> : especifica as propriedades de coluna para cada coluna em um colgroup (elemento vazio).
+<caption> : define uma legenda para uma tabela.
+Atributos de tabelas HTML
+• align : define o alinhamento  de uma tabela.
+• bgcolor : define a cor de fundo de uma tabela.
+• border : define o tamanho do quadro ao redor de uma tabela.
+• cellpadding : define o espaço entre o conteúdo de uma célula e sua borda.
+• cellpacing : define o espaço entre duas células
+• frame : define qual lado do frame ao redor da tabela deve ser exibido.
+• rules : define onde as regras devem aparecer em uma tabela.
+• summary : define um texto alternativo que resume o conteúdo da tabela.
+• width : define a largura de uma tabela.
+Observação!  Todos os atributos de tabela HTML mencionados já estão obsoletos, o que significa que eles podem não funcionar mais em um futuro próximo, por isso não vamos explicá-los mais.
+Embora os atributos já estejam obsoletos, ainda podemos criar um efeito semelhante a eles usando estilo ou Folha de Estilo em Cascata (CSS).
+Podes copiar os exemplos de algumas tabelas nos comentários (aqui na página), e executa-los no editor ou IDE da sua preferência.💻📱
+Tenha um óptimo dia 👋🏽🍀

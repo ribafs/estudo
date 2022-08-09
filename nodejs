@@ -1,0 +1,48 @@
+Matondo João
+  ·
+Saiba o que é Node.js, como ele funciona e como usá-lo no seu site
+O #Node.js é ideal para aplicações multidirecionais que ocorrem em tempo real, como chats. Além disso, pode ser usado na transmissão e visualização de dados, assim como no acompanhamento das interações da audiência no seu site.
+O Node.js é um ambiente de execução #Javascript, linguagem padrão de manipulação de páginas HTML, criada em 1995. Anteriormente, foi usada para o desenvolvimento #client-side, mas com a evolução da Internet, também passou a ser aplicada como #server-side.
+O ambiente do Node.js é utilizado por gigantes do mercado de tecnologia, como #Netflix e #LinkedIn. Sua escolha é embasada em uma característica muito peculiar: sua alta escalabilidade, uma vez que a execução single-thread permite criar um Event Loop com requisições que não demandam output.
+Essa arquitetura, somada a outras vantagens, como o baixo custo e a flexibilidade, permitem que o Node.js embase, principalmente, aplicações multidirecionais com comunicação e troca de dados em tempo real. Neste artigo, falaremos mais sobre o Node.js
+🔻O que é Node.js?
+O Node.js é um ambiente de execução na porta 80 padrão,baseado na pilha da web aberta (HTML, CSS e JS). Ou seja, é uma plataforma em que é possível criar aplicações Javascript sem depender de um browser para a execução.
+Sua execução em single-thread não exige resposta a cada requisição. Assim, a dinâmica de entrada e saída (I/O) fica diferente, com inputs não bloqueadores.
+A plataforma preenche uma necessidade específica: criação de aplicativos de rede altamente rápidos, escaláveis e com grande volume de conexões simultâneas. Apesar disso, não é indicada para operações robustas que demandem resposta e muitos recursos computacionais, como memória RAM.
+🔻Quais as características do Node.js?
+A característica que diferencia o Node.js de outras plataformas é exatamente essa execução single-thread, em que uma única thread executa o código Javascript. Em outras linguagens, ela é multi-thread, ou seja, a cada solicitação (input) são requisitados recursos computacionais até a obtenção de uma resposta (output).
+🔻Como usá-lo no seu site?
+Saiba como essa tecnologia pode ser aplicada.
+🔻Chat
+O bate-papo é uma aplicação multidirecional, ou seja, gera um fluxo de informações entre dois ou mais usuários, em tempo real. A aplicação por meio do Node.js permite que a comunicação seja estabelecida na porta 80 padrão.
+🔻API para requisição no banco de dados
+Bancos de dados são baseados em JSON (JavaScript Object Notation) e uma API criada no Node.js funciona sem a incompatibilidade de impedância e a necessidade de conversão dos dados. Permite, portanto, que os dados sejam enviados para o front-end sem demandar várias conexões que uniformizam as informações e atrasam a execução da solicitação.
+🔻Transmissão e visualização de dados
+Nas plataformas da web mais tradicionais, as solicitações e respostas HTTP são tratadas como eventos isolados, como fluxos de dados. Por meio do Node.js é possível processar arquivos durante o carregamento, pois eles entram em uma fila que permite seu processamento simultâneo.
+🔻Proxy
+O Node.js é facilmente empregado como um proxy do lado do servidor, pois suporta uma grande quantidade de conexões simultâneas sem bloqueio. Isso é útil em proxies de diferentes serviços e com tempos de resposta variados.
+🔻Monitoramento de usuários
+Outro uso muito comum do Node.js acontece por meio do rastreamento dos visitantes de um site e a visualização de suas interações em tempo real. Isso permite que proprietários de páginas coletem informações de acesso simultaneamente à ocorrência das ações.
+🔻Monitoramento de sistemas
+Já na infraestrutura de TI, o Node.js permite monitorar o uso de sistemas. Um provedor de SaaS pode oferecer aos seus usuários a comodidade de acompanhar como os serviços são executados no software, similar ao que acontece na página de status do #GitHub.
+🔻Quais as vantagens do Node.js?
+Não é difícil perceber que a maior vantagem do Node.js é a sua escalabilidade. Mas também podemos reforçar sua flexibilidade, leveza e a produtividade que seu uso proporciona. Veja, a seguir.
+🔻Flexibilidade
+O NPM (Node Package Manager) é o repositório do Node.js e abrange uma grande quantidade de módulos que podem ser aplicados em muitas situações:
+express ou express.js: uma estrutura de desenvolvimento web inspirada no Sinatra e padrão para a maioria dos aplicativos Node.js existentes;
+hapi: uma estrutura centrada na configuração, modulação e usabilidade, para a construção de aplicativos e aplicações de serviços;
+connect: estrutura de servidor HTTP extensível para Node.js, que fornece uma coleção de plugins de alto desempenho conhecidos como middleware;
+socket.io e sockjs: componente de servidores;
+pug: inspirado no HAML é um padrão no express.js e um dos mecanismos mais populares;
+mongodb e mongojs: API em Node.js para bancos de dados;
+redis: biblioteca de clientes Redis;
+forever: utilitário que garante a continuidade do Node.js diante de falhas inesperadas;
+moment: biblioteca para analisar, validar, manipular e formatar datas em JavaScript.
+🔻Leveza
+Por não exigir muitos recursos de computação, especialmente de memória RAM, o Node.js é extremamente leve, se comparado a outras tecnologias tradicionais. Pode ser usado conjuntamente com o Docker para potencializar ainda mais o desempenho em processos como deploy e replicação de máquinas.
+🔻Produtividade
+Pela compatibilidade com o Javascript e o uso da mesma linguagem em frontend e backend, o Node.js é a plataforma preferida para o desenvolvimento web. Além disso, a tecnologia possibilita que deploys e iterações sejam mais ágeis, o que influencia a facilidade de resolução de problemas.
+Ficou com dúvida e quer conhecer melhor o JavaScript usado no Node.js? Consulte nosso guia sobre essa linguagem de programação👎!
+https://matondo.aviatocreative.com/o-que-e-javascript.../
+Gostou deste post , deixe seu like, partilhe com todos seus amigos e junte-se a nossa comunidade de desenvolvedores.👎
+https://web.facebook.com/groups/1661399400869509

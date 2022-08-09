@@ -1,0 +1,27 @@
+Node.js - Brazil
+Leonardo Santos  · 22 de abril às 09:15  ·
+A pouco respondi uma dúvida sobre assincronismo aqui na página.
+A final, javascript é ou não Single Thread?
+
+Essa era um tipo de dúvida que eu tinha quando comecei a estudar javascript, e existe muito conteúdo confuso e que não responde com eficiência essa pergunta.
+
+Em muitos lugares dizem que no javascript, o assincronismo é definido como somente uma função que demora para retornar.
+
+Essa pergunta surge de cara quando a gente executa uma função assíncrona, ja que assincronismo está ligado com multi thread. Então quando faço uma requisição para uma api, uma consulta no bando ou leio um arquivo no Node, como pode ser assíncrono, se o Javascript é single thread.
+
+A resposta é que sim, o Javascript é single thread, a questão é que todas essas funcionalidades mencionadas a cima, estão sendo executas em outro lugar, na Libuv.
+
+A Libuv é um biblioteca escrita em c++ e feita para trabalhar com multi thread, ou seja, todas essas funções são executadas por ela e não pelo Javascript.
+
+São funções pre-definidas pra serem executas na Libuv, então não é só colocar Async numa função e retornar uma Promise que será executa de forma assíncrona.
+
+No caso da Web (Browser), não existe Libuv, existe algo chamado de Web APIs, que são feitas para chamadas assíncronas, ou seja, as funções como XMLHttpRequest, setTimeout e entre outras, são executadas pela Web API.
+
+Para trabalhar com grandes processamentos no Node, existem módulos como Child Process e Worker Threads.
+
+Referencias:
+- EventLoop é single thread: https://nodejs.dev/learn/the-nodejs-event-loop#introduction
+- O que roda na Libuv?: https://nodejs.org/.../guides/dont-block-the-event-loop/...
+
+Leonardo Ferreira
+Corretissimo, só pra resumir, pra schedular requisições assincronas o node é single thread ja que ele joga tudo pra stack de execução, mas na hora de resolver tem como liberar mais threads e ate processar tudo sob demanda

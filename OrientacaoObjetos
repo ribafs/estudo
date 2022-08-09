@@ -1,0 +1,14 @@
+Uma classe é como uma planta de casa, em que o engenheiro usa para construir casas. As casas construídas são como objetos que foram criados partindo da planta. Uma classe dá origem a objetos. Na prática não se usa plantas, mas sim casas. Também com as classes, não se usa classes no código mas sim os objetos. Orientação a objetos, como o nome diz, tem forte relação com os objetos da vida real. Uma classe Carro tem propriedades (cor, ano, fabricante, modelo) e métodos, que são ações (buzinar, frear, funcionar, etc). 
+Uma boa dica é estudar vários exemplos, colcar para funcionar no desktop, customizar e estudar em livros, vídeos, grupos, etc.
+
+Comparando com a programação estruturada:
+Estruturada - OO
+variáveis     - propriedades
+funções       - métodos
+
+Mas existem muitas diferenças e algo que epga no começo são os conceitos, que são bem fortes e novidade na orientação a objetos.
+
+Propriedades public - variáveis globais
+Propriedades private - variáveis locais
+
+Vai por etapas, aprendendo o básico e avançando. Deixa os conceitos mais avançados para o final.

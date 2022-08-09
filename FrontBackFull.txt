@@ -1,0 +1,16 @@
+Weslley Vieira
+Vou explicar de uma maneira bem 'porca'.
+Frontend é oque você em um site. Como:
+Animações;
+Interatividade com o cliente;
+Partes estéticas.
+Suas principais ferramentas são:
+HTML (Estrutura do site),
+CSS (Estilização),
+JavaScript (Linguagem de programação que permite uma interatividade maior do usuário);
+Backend: Aquilo que roda por trás do site, ou seja nos servidores, como requisições, dados do usuário entre outros. Principais linguagens são:
+PHP;
+NodeJS;
+C#;
+Python, entre outras.
+O Full Stack domina os dois lados da moeda(Front e Back).

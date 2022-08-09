@@ -1,0 +1,8 @@
+HTML => conteúdo mostrado no site.
+CSS => estilo do site
+PHP => tratamento de dados
+MySQL => armazenamento de dados
+Java Script é para quê?
+Porque eu quero fazer um curso e até agora não percebi a sua funcionalidade!
+
+O Javascript é parecido com o PHP, mas trabalha somente no lado do cliente/front-end e não tem acesso ao mysql entre outros. Ops, isso era há algum tempo. Agora as coisas se modificaram e temos uma biblioteca do JS no lado do servidor/back-end, que é o NodeJS e me parece que também outras.

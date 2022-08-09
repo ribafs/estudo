@@ -1,0 +1,63 @@
+Matondo João
+  ·
+O Framework PHP Laravel – Construção de Aplicativos Web Para Todos
+O desenvolvimento de aplicativos web e websites tem se tornado cada vez mais simples nos últimos anos. Mesmo os mais desafiados tecnologicamente entre nós se tornaram bastante adeptos de produtos como #WordPress e #Wix.
+Para o desenvolvedor mais avançado, existe uma série de ferramentas para ajudar a simplificar o processo de desenvolvimento. Uma das mais úteis dessas ferramentas é #Laravel.
+🔻O que é Laravel?
+A resposta à pergunta: “O que é Laravel?” é simples: Laravel é um #framework #PHP de plataforma cruzada para a construção de aplicativos web.
+Mas compreender verdadeiramente os benefícios do Laravel e seus usos requer um mergulho mais profundo. Laravel permite que um desenvolvedor tire proveito de uma grande biblioteca de funcionalidades pré-programadas (como autenticação, roteamento e modelos HTML). O acesso a esta biblioteca torna mais simples a construção rápida de aplicativos web robustas, minimizando ao mesmo tempo a quantidade de codificação necessária.
+Laravel oferece um ambiente de desenvolvimento altamente funcional, bem como interfaces de linha de comando intuitivas e expressivas. Além disso, a Laravel utiliza o mapeamento objeto-relacional (ORM) para um acesso e manipulação de dados mais simples.
+Os aplicativos Laravel são altamente escaláveis e têm bases de código fáceis de manter. Os desenvolvedores também podem acrescentar funcionalidade ao seus aplicativos, graças ao sistema modular do Laravel e ao robusto gerenciamento de dependência.
+🔻Laravel é Frontend ou Backend?
+Laravel é principalmente um framework de desenvolvimento backend, embora ofereça alguma funcionalidade frontend. Muitas das características do Laravel, no entanto, são agnósticos front-end.
+🔻Laravel é uma linguagem de programação?
+Laravel é um framework PHP e usa uma linguagem de script em vez de ser uma linguagem de programação PHP rígida. Embora as linguagens de scripting e as linguagens de programação estejam relacionadas, elas têm várias diferenças perceptíveis, principalmente na facilidade de uso e na velocidade de execução.
+🔻O que é um framework PHP?
+PHP (um acrônimo recursivo para PHP Hypertext Preprocessor) é uma linguagem de scripting de código aberto, do lado do servidor, amplamente utilizada para o desenvolvimento web. Desde o início de 2021, quase 80% de todos os websites estão usando PHP. Enquanto muitos podem não estar familiarizados com PHP, todos estão familiarizados com um dos mais conhecidas aplicativos PHP – #WordPress.
+Um framework PHP fornece um conjunto de bibliotecas de código contendo módulos pré-programados que permitem a um usuário construir aplicativos mais rapidamente.
+🔻Por que você deve usar Laravel?
+Tendo respondido “O que é Laravel?”, a próxima pergunta é: “Por que Laravel?” Laravel fornece um grande conjunto de ferramentas robustas que ajudam a tornar o processo de desenvolvimento de aplicativos web mais fácil e rápido, e as bases de código do aplicativo final são bem estruturadas e de fácil manutenção.
+Alguns dos benefícios específicos do Laravel são:
+🔻Laravel é fácil de aprender
+🔻Laravel simplifica o processo de desenvolvimento
+🔻Laravel tem ferramentas para desenvolvedores de todos os níveis
+🔻Laravel evolui facilmente
+🔻Laravel Tem um Ecossistema e uma Comunidade Massiva
+🔻Laravel é muito utilizado
+🔻O que Laravel faz?
+O conjunto de características do Laravel é muito extenso para ser totalmente coberto nesta breve visão geral. Algumas das características mais significativas incluem:
+🔻Manuseio de rotas
+🔻Segurança
+🔻Migração
+🔻Modelagem
+🔻Sessões
+🔻Validação de dados
+🔻Manuseio de Cache
+🔻Tratamento de erros
+🔻Testes unitários
+🔻Armazenamento e gerenciamento de arquivos
+🔻Email
+🔻Notificações
+🔻Como funciona o Laravel?
+Para entender melhor o que Laravel pode fazer, é importante entender como Laravel lida com os pedidos, ou seja, o ciclo de vida do pedido. Como discutido acima, Laravel é baseado na arquitetura MVC, e responde às solicitações dos usuários, que o controlador utiliza para recuperar e processar dados do modelo e apresentar as informações de volta ao usuário em uma visão.
+Um pedido entra em um aplicativo Laravel através do arquivo public/index.php, que carrega o resto da estrutura e recupera uma instância do aplicativo Laravel. Após a recuperação da instância do aplicativo, a solicitação é encaminhada para o kernel do console ou para o kernel HTTP.
+🔻Como começar a trabalhar com Laravel?
+Para começar com Laravel, é necessário compreender algumas das estruturas e funcionalidades mais importantes em Laravel.
+🔻Prestadores de serviços
+🔻Interfaces da Linha de Comando
+🔻Eloquent
+🔻Contêineres de serviço
+🔻Composer
+🔻Homestead
+🔻Kits iniciais de autenticação
+🔻O que mais Laravel pode fazer?
+A melhor pergunta poderia ser: “O que Laravel não pode fazer?”. Existem milhares de pacotes que cumprem qualquer número de funções. Alguns dos pacotes oficiais do Laravel mais interessantes são:
+🔻Cashier e Spark
+🔻Valet
+Os desenvolvedores que buscam o desenvolvimento rápido e simples de aplicativos web devem considerar o aprendizado do Laravel. Laravel fornece um amplo e robusto conjunto de recursos que simplifica o processo de desenvolvimento, eliminando a necessidade de codificar muitas tarefas comuns a partir do zero.
+Laravel também oferece um ambiente de desenvolvimento virtual seguro e interfaces intuitivas de linha de comando. E como #Laravel é simples de aprender e tem uma forte comunidade de apoio e ecossistema, é uma escolha natural para muitos desenvolvedores, sejam eles iniciantes ou especialistas com anos de experiência.
+Veja mais detalhes sobre cada um dos pontos citados acima clicando no link👎
+https://matondo.aviatocreative.com/o-framework-php.../
+Partilhe com todos seus amigos que desejam ser desenvolvedores web profissionais e deixe o seu like para nao perder os proximos conteúdos👍
+e junte-se a nossa comunidade de programadores
+https://web.facebook.com/groups/1661399400869509

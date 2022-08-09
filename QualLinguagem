@@ -1,0 +1,33 @@
+Para saber que linguagem aprender, precisa se perguntar o que deseja com programação, pois existem várias sub áreas: desktop, web, mobile, etc. E cada sub área tem várias linguagens. Faça uma boa pesquisa sobre o assunto, experimente algumas linguagens então escolha uma ou algumas. Vá estudando e testando e mais a frente também poderá mudar caso queira.
+
+Rivaldo Francisco eu sei que é clichê o que vou dizer. Mas escolher algo focando só em dinheiro, pode não dar muito certo, porquê programar é estressante e cansativo, se não tiver tesão, vai ser um pesadelo.
+Já sobre o que é mais rentável entre sites, sistemas web e apps, acredito que sistemas web e apps sejam os mais rentáveis, tipo um e-commerce e um app pra esse mesmo e-commerce, se for algo relativamente grande, da pra pegar uns 40k em um único job, mas é claro, pra chegar nesse batamar, você vai ter que soar muito.
+Então vou te passa meu roadmap.
+Bora pro copia e cola.
+Este é um compilado de dicas que me passaram e que resolvi seguir pra iniciar meus estudos. Espero que possa ajudá-lo (a)
+____
+Minha experiência:
+Tenho 31 anos e trabalho a mais de 10 anos na área de ti, mas voltado a área de suporte e infraestrutura. Agora estou conhecendo o lado DEV da força.
+Então eu sugiro:
+1° Estude algoritmo pra entender a base de lógica de programação, sabendo a lógica você consegue aprender praticamente qualquer linguagem.
+2° Faça HTML.
+3° Javascript por ser uma linguagem teoricamente fácil de se aprender, muito poderosa e a mais usada nos dias de hoje.
+4° Git e GitHub (Pra jogar seus projetos pessoais lá e aprender sobre versionamento de código )
+Esses primeiros você acha de graça no site cursoemvideo.com, só paga o certificado se quiser e é só 35,00. Porém nesse valor existem outros diversos cursos bons na udemy e que dão certificado também. Eu mesmo não comprei o certificado desses 4 cursos que fiz do Guanabara.
+Aí se gostar, vai e estude sobre frameworks e bibliotecas pra JS, exemplo (Bootstrap "framework pra front-end", React "lib", React Native "Framework pra criar apps", Vue.js, Angular etc....), essa parte te dará conhecimento ao front-end e mobile. Depois estude linguagens pra back-end, como (node, php, java, python etc..), recomendo node.js para aproveitar o conhecimento adquirido em Javascript. Esse conteúdo sobre bibliotecas e frameworks você encontra na (DIO) Digital inovation (muito conteúdo bom grátis), Rocketseat (muito conteúdo bom grátis) e Origamid (Não tem conteúdo grátis) mas dizem que vale a pena para quem quer seguir front-end.
+A evolução disso aí é fazer um bootcamp, a DIO tem alguns e já vi gente que conseguiu emprego após terminar o bootcamp lá. Também já me indicaram bootcamps da IGTI porém é pago.
+Se gostar disso, aí com certeza vai se dar bem em qualquer faculdade de ti voltado a programação.
+Por que só depois eu indiquei a faculdade? Porquê já tive estagiários no trabalho que concluíram a faculdade empurrando com a barriga e você via que a pessoa não tinha vontade alguma de aprender e seguir na área, então faça o que te passei de graça, veja se é o que quer e parta pra faculdade.
+E falando um pouco sobre faculdade. Conheço bons programadores que não tem faculdade na área e que ganham muito bem e tem gente que nem tem e conseguiu vaga de dev jr. Alguns que conheço, fizeram faculdade, exemplo, de administração, trabalharam na área administrativa e depois por suas razões migraram pra TI sem fazerem uma nova graduação.
+Sendo assim, conseguir uma vaga e ser bem sucedido na área não está atrelado a fazer faculdade. Claro fazer faculdade é bom, na verdade é ótimo, pois te da um conhecimento teórico muito bom e te prepara para construir uma base sólida, principalmente as públicas. Faculdade é uma boa também, "não é regra", mas te abre portas do primeiro emprego "estágio" que muitas das vezes, após o período de estágio, se você se dedicou, poderá ser efetivado. Fora o network que você faz e que é muito importante. Esse network as vezes tem colegas de sala que já estão trabalhando e te indicam, ou que futuramente podem abrir uma porta pra você como já aconteceu comigo, uma amiga da faculdade, depois que nos formamos, mais tarde ela me conseguiu uma vaga na melhor empresa que já trabalhei até hoje.
+Resumo sobre faculdade:
+Tem grana? - FIAP
+Pouca grana - Unip, Uninter, Anhanguera e até Fiap + alguma bolsa.
+Sem grana e gosta de estudar, mas gosta mesmo? - Faz enem, e presta vestibular pra federais.
+Sucesso e fica de olho em Dart + Flutter 😬🚀🚀🚀🚀
+______
+Tópicos de cursos fullstack
+https://www.facebook.com/groups/clubedosprogramadores/permalink/1895471253955599/
+https://www.facebook.com/groups/clubedosprogramadores/permalink/1864719463697445/
+https://www.facebook.com/groups/814655205536873/permalink/1508114226190964/
+OBS: Eu comprei o B7WEB no plano vitalício em uma promo de novembro/2021. Se procurar no google, vai achar os cursos de hmtl e js de graça da B7WEB.

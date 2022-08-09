@@ -1,0 +1,56 @@
+Gustavo Araújo
+Administrador do grupo Clube dos Programadores no Facebook
+
+  · 14 de fevereiro às 12:20  ·
+[PERGUNTAS FREQUENTES — DÚVIDAS COMUNS]
+
+Para evitar o flood no grupo com postagens repetidas, resolvi criar esse post respondendo às perguntas frequentes. Caso discordem de algum ponto ou tenham algo a discutir/acrescentar, fiquem a vontade para fazer isso nos comentários, pois este tópico será atualizado constantemente.
+
+    Desenvolvimento de Software não é bagunça.
+    Se você é iniciante e está estudando sobre a área pensando em ganhar muito dinheiro fácil, sinto muito dizer que você caiu no conto dos vendedores de curso. Qualquer área pode lhe render dinheiro, mas definitivamente você precisa ser um profissional fora da curva para isso, precisa dedicar tempo e esforço, e muitos anos de estudo. Não pense ser apenas fazer um curso simples, conseguir um emprego e sair ganhando rios de dinheiro. Assim como qualquer profissão, requer profissionalismo e comprometimento.
+    Qual linguagem eu deveria começar?
+    Primeiramente estude conceitos básicos, coisas que nunca mudam, por exemplo, arquitetura de sistemas operacionais se você pretende focar em programação desktop, ou protocolo HTTP, caso queira focar em programação web. Após feito isso, quando for escolher uma linguagem para se aprofundar e aplicar os conceitos aprendidos, recomendo fortemente não terceirizar sua decisão, apenas vá estudando um pouco sobre cada uma delas e tome sua decisão. Se você quer um ponto de partida, comece dando uma olhada em Ruby, JavaScript, Python, Java, C#, PHP e Kotlin. São ótimas linguagens, usadas aqui e lá fora.
+    Preciso de faculdade para trabalhar?
+    Qual curso superior eu deveria fazer? A área de TI não é regulamentada, portanto, você não precisa de uma faculdade para exercer essa profissão (em alguns casos específicos, como ser contratado em órgãos públicos, você pode precisar). Se pretende cursar uma, procure os cursos existentes e suas diferenças, mas basicamente temos Análise de Sistemas, Ciências da computação, Engenharia da Computação e Engenharia de Software. Cada um destes cursos tem um foco especifico, portanto, entenda esse foco e as diferenças antes de ingressar em uma.
+    Qual a melhor instituição de ensino superior?
+    Essa definitivamente é uma pergunta bem relativa, e eu não me preocuparia com ela se fosse você. Um diploma superior é um diploma superior, e pelo menos na área de TI nunca vi isso ser levado tão ao pé da letra quanto a instituição. Entre naquela que esteja mais a seu alcance. Mas se essa informação é tão importante para você, procure pelo ranking RUF, o ranking do MEC que avalia as instituições.
+    Eu consigo emprego com tal curso?
+    Nenhum curso vai te garantir um emprego, e para ser sincero, o conhecimento adquirido em um só vai te deixar mais próximo de um emprego, se aplicado. Isto é, além de simplesmente ter um certificado, tenha em seu GitHub o código que demonstre que você adquiriu domínio daquele tema. Mas tenha em mente que copiar e colar os códigos de quem esteja ensinando e colocar no GitHub como seu é uma péssima prática, qualquer dev/recruiter com conhecimento intermediário vai saber que seu código é apenas copy e paste. Já vi pessoas com um milhão de certificados, mas sem conhecimento básico dos temas aos quais ela é certificada, não cometa esse erro.
+    Qual linguagem tem mais vagas de emprego?
+    Qualquer pessoa que diga que determinada linguagem oferece mais vagas vai estar cometendo um erro. Isso porque a opinião dela com certeza vai estar enviesada, ela pertence à bolha daquela linguagem, portanto, vai ser mais comum ver vagas naquela linguagem do que em outra qualquer. E como opinião, posso dizer que tenho contato com várias linguagens e suas comunidades e posso lhe afirmar que vejo bastante vaga para todas elas, mas não dá para metrificar isso a ponto de dizer qual tem mais vagas. Na dúvida, tenha em mente que em todas elas você pode ter oportunidades, e considere a lei da oferta e demanda, onde menos profissionais especializados naquela tecnologia resulta em remunerações maiores.
+    A área de desenvolvimento está saturada?
+    Como opinião pode lhe dizer que ainda estamos longe disso. Diariamente surgem tecnologias e produtos, e isto demanda profissionais qualificados. Entenda que, existem vagas para pessoas qualificadas, mas não para “curiosos”, que pensam que desenvolvimento é somente fazer um curso e sentar em uma cadeira e ganhar rios de dinheiro.
+
+Osvaldo Vargas Jaques
+Quanto ao papo de faculdade de TI serve para nada. Até concordo quando é somente Software Comercial, como controle estoque, vendas, sistemas contábeis.
+Alguns podem ser desenvolvedores sem passar pela academia, fazendo ou não cursos na Udemy, Alura, Data Science Academy, Guanabara, etc.
+Mas já repararam que geralmente os instrutores desses cursos geralmente tem uma graduação em Ciência da Computação, Sistemas de Informação, Engenharias? Isso quando não tem um pouco mais, como mestrado e doutorado.
+E pode ser até possível, mas acho bem complicado alguém desenvolver alguma coisa em IA, Reconhecimento de Padrões, Processamento de Imagens, sem ter conhecimentos de Estatística, Cálculo, Álgebra Linear, Teoria dos Grafos e Redes Complexas, Processamento Numérico.
+
+Ramone Entayrer Dilan
+eu tenho alguns poucos adendos muito importante:
+1 - clt, é estressante, seu cliente fica lhe enchendo o saco pra terminar logo, e app barato, rápido e de qualidade ao mesmo tempo, não existe
+2 - sim existem linguagens que foram feitas pra concorrer com outras, mas isso não inibe o fato de cada linguagem tem seu devido propósito
+3 - a vida útil de um programador clt, é 30 anos, passou disto, é bem capaz de, sei lá, o cara quer mudar de área pra logística ou qualquer outra
+
+Esdras Oliveira
+Bacana a sua iniciativa, cara
+Eu faço sistema da informação no IFBA e tô no 3 semestre e por fora venho estudando HTML, CSS e javascript e tô começando a aprender framework tbm já disponibilizei projetos pessoais no meu Github e venho tentando arranjar um trampo
+
+Gustavo AraújoAutor
+Administrador
+Pois, continue assim. Faça networking, adentre as comunidades e ajude o pessoal, faça amigos, crie um twitter e comece a seguir a "bolha dev", faça algumas POCs (Provas de Conceito) e suba tudo no seu GitHub. Isto já vai te colocar a frente de 90% dos outros candidatos em qualquer processo seletivo.
+
+Próativo: identifica necessidades que poderiam ser interessantes para o cliente abraça e implenta?
+Reativo: espera o cliente solicitar melhoria e analizar se dá ou não pra fazer?
+Isso me parece que está ligado a gostar muito ou estar na empresa apepnas pelo salário. O cara que gosta fica atento e é proativo.
+
+Clube dos Programadores
+Rômulo Albuquerque  · 2 min  ·
+Certa vez alguém disse: "teu mal é sono!" Realmente isso tem um fundo verdadeiro. Estudamos tanto que não damos tempo para o aprendizado amadurecer em nosso entendimento. Organize as idéias, estude pouco mas com qualidade. Estudamos muito porque estamos muito ansiosos e é justamente essa ansiedade que estraga tudo. Experimente fazer um projeto bem simples, como um crud de usuários, depois vai implementando novas features nesse crud. Dessa maneira vai estudando as tecnologias uma a uma. De forma prática e objetiva. Precisamos parar de sermos apenas estudantes e passarmos a ser praticantes. Não precisa ler toda a documentação de uma tecnologia pra começar a usá-la. Não precisa estudar toda a linguagem pra começar a programar. Se sabe if e else, então já começa a desenvolver.
+Achei esse pensamento tão assertivo que senti vontade de compartilhar novamente.
+
+Felipe Araujo de Souza
+Eu só consigo estudar e aprender sobre um assunto, quando tenho realmente um problema para resolver. Estudar só para adquirir conhecimento sem aplicar na prática é complicado.
+
+

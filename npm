@@ -1,0 +1,39 @@
+Matondo João
+  ·
+NPM (Node Package Manager) saiba oque é? 
+O NPM é um poderoso gerenciador de pacotes utilizado para administrar as bibliotecas e frameworks utilizados em uma aplicação🎲. 
+Confira as suas características e saiba por que deve utilizá-lo e como realizar a instalação em diferentes plataformas.
+O NPM, que significa Node Package Manager, é um poderoso gerenciador de pacotes que faz parte do Node.js 🎲
+🚀🚀 . Esse, por sua vez, é um ambiente para a execução de JavaScript no lado do servidor de hospedagem. Em outras palavras, ele permite utilizar a linguagem JavaScript no backend da aplicação, o que não era possível antes da existência do Node.🎲
+Trata-se de uma ferramenta crucial para realizar um desenvolvimento organizado e otimizado, pois permite instalar dependências em um projeto, mantê-las atualizadas e muito mais👩🏻‍🔬.
+O que é NPM?
+O NPM é uma ferramenta do Node.js para o gerenciamento de pacotes. Ele permite instalar, desinstalar e atualizar dependências em uma aplicação por meio de uma simples instrução na linha de comando. Sempre que um projeto é criado por meio do gerenciador, é adicionado um arquivo chamado package.json, que contém a relação dos pacotes instalados no ambiente. Veja um
+exemplo, a seguir.
+{
+  "name": "appteste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo "Error: no test specified" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+"bootstrap": "^4 5 2"
+Create PDF in your applications with the Pdfcrowd HTML to PDF API PDFCROWD
+     bootstrap :  4.5.2
+  }
+}
+Assim, quando for preciso realizar alguma alteração, o NPM verifica esse arquivo e faz as atualizações necessárias de forma simples e rápida. Isso contribui para manter a organização do projeto e de suas dependências, além de evitar erros de configurações ao fazer a instalação de pacotes de forma manual.
+Por que devo usá-lo❗️?
+Realizar instalações manuais de bibliotecas, frameworks e ferramentas pode ser bem trabalhoso, além de ser maior as chances de realizar configurações erradas. E não é só isso, veja outros motivos que fazem essa ferramenta tão essencial.
+**Maior repositório de softwares do mundo
+**Instalação e gerenciamento de pacotes locais
+**Gestão de dependências instaladas globalmente
+**Controle de várias versões e dependências de código
+**Bloqueio de pacote JSON que exibe todas as
+   dependências do projeto
+Para Mais detalhes sobre NPM clica no link abaixo 👇
+https://matondo.aviatocreative.com/o-que-e-npm-e-como.../
+Oque achou do NPM queremos ouvir a sua opinião na sessão de comentários✍
