@@ -7,6 +7,14 @@ Existem vários arquivos em texto puro, mas alguns deles podem ser úteis.
 
 Praticamente todo o material aqui encontrado eu encontrei em alguns grupos do Facebook e praticamente nada é de minha autoria.
 
+## Cursos de Informática
+
+Na pasta Cursos etá a descrição dos principais cursos de informática:
+- Análise de sistemas
+- Ciência da Computação
+- Engenharia da computação
+- Sistemas da Informação
+
 ## Trabalho
 
 Um repositório com muito conteúdo sobre trabalho, trabalho com programação:
