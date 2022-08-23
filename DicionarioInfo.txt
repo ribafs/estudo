@@ -1,6 +1,6 @@
-Matondo João
+# O dicionário do programador (completo)
 
-O dicionário do programador (completo)
+Colaboração do Matondo João num grupo do Facebook
 
 Neste artigo mostraremos o dicionário do programador-desenvolvedor de forma completa para você entender os principais termos técnicos de tecnologias que envolvem o mundo do desenvolvimento de software.
 
