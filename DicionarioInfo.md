@@ -1,4 +1,4 @@
-# O dicionário do programador (completo)
+# Dicionário do programador (completo)
 
 Colaboração do Matondo João num grupo do Facebook
 
