@@ -2,6 +2,10 @@
 
 Boa quantidade de material sobre estudo, especialmente estudo de programação. 
 
+## Veja também material sobre trabalho
+
+https://github.com/ribafs/trabalho
+
 Mas muita coisa aqui é material bruto, sem qualquer formatação. Foi material que fui guardando em meu computador e como acredito que pode ser útil, então estou oferecendo aqui neste repositório.
 Existem vários arquivos em texto puro, mas alguns deles podem ser úteis.
 
